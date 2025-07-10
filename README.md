@@ -1,5 +1,11 @@
 # ShadCN UI Dashboard
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 ## Overview
 
 This project is a comprehensive guide and implementation for building a modern, responsive dashboard using **ShadCN UI**, **Radix UI**, **Next.js**, and **Tailwind CSS**. It covers everything from setting up your development environment to designing complex UI components, handling data visualization, and implementing advanced features like data tables with Tanstack React Table.
