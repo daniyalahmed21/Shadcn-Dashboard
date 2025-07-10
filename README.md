@@ -1,14 +1,13 @@
-# 🚀 Awesome ShadCN UI Dashboard
+# ShadCN UI Dashboard
 
-## ✨ Overview
+## Overview
 
 This project is a comprehensive guide and implementation for building a modern, responsive dashboard using **ShadCN UI**, **Radix UI**, **Next.js**, and **Tailwind CSS**. It covers everything from setting up your development environment to designing complex UI components, handling data visualization, and implementing advanced features like data tables with Tanstack React Table.
 
 Whether you're looking to learn how to integrate ShadCN UI into your Next.js projects or need a robust starting point for your next dashboard, this repository has you covered.
 
----
 
-## 🌟 Features
+## Features
 
 - **ShadCN UI Integration**  
   Learn how to effectively use and customize ShadCN UI components.
@@ -40,9 +39,9 @@ Whether you're looking to learn how to integrate ShadCN UI into your Next.js pro
 - **Accessibility Best Practices**  
   Concepts like `sr-only` and `asChild` for improved accessibility.
 
----
 
-## 🛠️ Technologies Used
+
+## Technologies Used
 
 - **Next.js** – React framework for production apps  
 - **ShadCN UI** – Re-usable components built with Radix UI and Tailwind CSS  
@@ -53,5 +52,5 @@ Whether you're looking to learn how to integrate ShadCN UI into your Next.js pro
 - **Zod** – TypeScript-first schema validation  
 - **React Hook Form** – Performant and flexible form library
 
----
+
 
